@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>QuizQuest</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous"/>
+</head>
+<body>
+<!--Header-->
+  <header class="bg-primary py-2 mb-4 text-center">
+    <h1 class="fw-bold text-white">QuizQuest</h1>
+  </header>
+
+<!-- Selection Page -->
+  <div class="container" id="first-container">
+    <div class="card p-4 mx-auto shadow" style="max-width: 600px;">
+      <div class="text-center">
+        <img class="logo my-3 img-fluid" src="images/logo.png" alt="logo" style="max-width: 100px;" />
+        <h3 class="fw-bold">Welcome to QuizQuest</h3>
+        <p>Test your knowledge with our interactive quiz. Answer questions and get instant feedback.</p>
+        <h2 class="h5 fw-bold mt-3">Select a category</h2>
+      </div>
+
+      <div class="row row-cols-2 row-cols-md-3 g-2 mt-2 justify-content-center">
+        <div class="col"><button class="category-btn btn btn-outline-primary w-100">Web Development</button></div>
+        <div class="col"><button class="category-btn btn btn-outline-primary w-100">Programming</button></div>
+        <div class="col"><button class="category-btn btn btn-outline-primary w-100">Computer Science</button></div>
+        <div class="col"><button class="category-btn btn btn-outline-primary w-100">Version Control</button></div>
+        <div class="col"><button class="category-btn btn btn-outline-primary w-100">Database</button></div>
+      </div>
+
+      <div class="mt-4">
+        <input class="form-control text-center" type="text" name="name" id="name" placeholder="Your name (e.g., John Doe)" />
+      </div>
+
+      <div class="text-center mt-3">
+        <button id="startBtn" class="btn btn-success">Start Quiz</button>
+      </div>
+    </div>
+  </div>
+
+<!-- Question page -->
+  <div class="container" id="second-container">
+      
+  </div>
+
+<!-- Score -->
+ <div class="continer" id="third-container">
+    <div class="card p-3 mx-auto shadow" style="max-width: 400px;">
+          <img class="score my-3 img-fluid" src="images/download.png" alt="">
+          <h5 class="fw-bold text-center">Quiz Completed</h5>
+          <p id="name-display" class="text-center text-success"></p>
+          <div class="d-flex justify-content-between">
+            <p>Your Score</p>
+            <p id="final-score"></p>
+          </div>
+          <div class="progress" style="height: 10px;">
+           <div class="progress-bar  bg-success" id="final-bar"></div>
+          </div>
+          <button id="restart-btn" class="btn btn-primary my-3">Restart</button>
+    </div>
+ </div>
+
+ <!-- Footer -->
+  <footer class="bg-primary text-white text-center py-3 mt-5">
+  <div class="container">
+    <p class="mb-1">© 2025 QuizQuest. All rights reserved.</p>
+    <p class="mb-0">
+      <a href="#" class="text-white text-decoration-none me-3">Privacy Policy</a>
+      <a href="#" class="text-white text-decoration-none">Contact</a>
+    </p>
+  </div>
+</footer>
+
+ <script src="script.js"></script>
+</body>
+</html>

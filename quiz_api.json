@@ -1,0 +1,742 @@
+{
+  "categories": [
+    {
+      "name": "Web Development",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Multi Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctOption": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages and web applications.",
+          "id": 1,
+          "category": "Web Development"
+        },
+        {
+          "question": "Which CSS property is used to change the text color?",
+          "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+          ],
+          "correctOption": 2,
+          "explanation": "The 'color' property is used to set the color of text in CSS. For example: color: blue;",
+          "id": 2,
+          "category": "Web Development"
+        },
+        {
+          "question": "What does the acronym SPA stand for in web development?",
+          "options": [
+            "Server Page Application",
+            "Single Page Application",
+            "Static Page Application",
+            "Synchronous Processing Application"
+          ],
+          "correctOption": 1,
+          "explanation": "SPA stands for Single Page Application. It's a web app that dynamically updates as the user interacts with it.",
+          "id": 3,
+          "category": "Web Development"
+        },
+        {
+          "question": "Which HTML tag is used to define an unordered list?",
+          "options": [
+            "&lt;ol&gt"
+,
+            "&lt;ul&gt"
+,
+            "&lt;li&gt"
+,
+            "&lt;list&gt"
+
+          ],
+          "correctOption": 1,
+          "explanation": "<ul> is used for unordered lists.",
+          "id": 4,
+          "category": "Web Development"
+        },
+        {
+          "question": "What is the purpose of media queries in CSS?",
+          "options": [
+            "To add animations",
+            "To apply styles based on device characteristics",
+            "To define transitions",
+            "To add fonts"
+          ],
+          "correctOption": 1,
+          "explanation": "Media queries apply CSS rules based on screen size, resolution, and orientation.",
+          "id": 5,
+          "category": "Web Development"
+        },
+        {
+          "question": "Which property is used to change font size in CSS?",
+          "options": [
+            "text-size",
+            "font-size",
+            "font-style",
+            "text-style"
+          ],
+          "correctOption": 1,
+          "explanation": "font-size is used to change the size of the font.",
+          "id": 6,
+          "category": "Web Development"
+        },
+        {
+          "question": "What does the <a> tag define in HTML?",
+          "options": [
+            "A paragraph",
+            "A table",
+            "A hyperlink",
+            "A heading"
+          ],
+          "correctOption": 2,
+          "explanation": "<a> tag defines a hyperlink in HTML.",
+          "id": 7,
+          "category": "Web Development"
+        },
+        {
+          "question": "How do you insert a comment in a CSS file?",
+          "options": [
+            "// comment",
+            "&lt;!-- comment --&gt",
+            "/* comment */",
+            "# comment"
+          ],
+          "correctOption": 2,
+          "explanation": "CSS comments are written like /* comment */.",
+          "id": 8,
+          "category": "Web Development"
+        },
+        {
+          "question": "Which HTML element is used to display a picture?",
+          "options": [
+            "&lt;picture&gt",
+            "&lt;img&gt"
+
+,
+            "&lt;src&gt"
+
+,
+            "&lt;image&gt"
+
+
+          ],
+          "correctOption": 1,
+          "explanation": "<img> is used to embed images in an HTML page.",
+          "id": 9,
+          "category": "Web Development"
+        },
+        {
+          "question": "What is the default position value in CSS?",
+          "options": [
+            "relative",
+            "absolute",
+            "static",
+            "fixed"
+          ],
+          "correctOption": 2,
+          "explanation": "The default CSS position is static.",
+          "id": 10,
+          "category": "Web Development"
+        }
+      ]
+    },
+    {
+      "name": "Programming",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Multi Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctOption": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages and web applications.",
+          "id": 11,
+          "category": "Programming"
+        },
+        {
+          "question": "Which CSS property is used to change the text color?",
+          "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+          ],
+          "correctOption": 2,
+          "explanation": "The 'color' property is used to set the color of text in CSS. For example: color: blue;",
+          "id": 12,
+          "category": "Programming"
+        },
+        {
+          "question": "What does the acronym SPA stand for in web development?",
+          "options": [
+            "Server Page Application",
+            "Single Page Application",
+            "Static Page Application",
+            "Synchronous Processing Application"
+          ],
+          "correctOption": 1,
+          "explanation": "SPA stands for Single Page Application. It's a web app that dynamically updates as the user interacts with it.",
+          "id": 13,
+          "category": "Programming"
+        },
+        {
+          "question": "Which HTML tag is used to define an unordered list?",
+          "options": [
+            "&lt;ol&gt",
+            "&lt;ul&gt",
+            "&lt;li&gt",
+            "&lt;list&gt"
+
+          ],
+          "correctOption": 1,
+          "explanation": "&lt;ul&gt is used for unordered lists.",
+          "id": 14,
+          "category": "Programming"
+        },
+        {
+          "question": "What is the purpose of media queries in CSS?",
+          "options": [
+            "To add animations",
+            "To apply styles based on device characteristics",
+            "To define transitions",
+            "To add fonts"
+          ],
+          "correctOption": 1,
+          "explanation": "Media queries apply CSS rules based on screen size, resolution, and orientation.",
+          "id": 15,
+          "category": "Programming"
+        },
+        {
+          "question": "Which property is used to change font size in CSS?",
+          "options": [
+            "text-size",
+            "font-size",
+            "font-style",
+            "text-style"
+          ],
+          "correctOption": 1,
+          "explanation": "font-size is used to change the size of the font.",
+          "id": 16,
+          "category": "Programming"
+        },
+        {
+          "question": "[Programming] What does the <a> tag define in HTML?",
+          "options": [
+            "A paragraph",
+            "A table",
+            "A hyperlink",
+            "A heading"
+          ],
+          "correctOption": 2,
+          "explanation": "<a> tag defines a hyperlink in HTML.",
+          "id": 17,
+          "category": "Programming"
+        },
+        {
+          "question": " How do you insert a comment in a CSS file?",
+          "options": [
+            "// comment",
+            "&lt;!-- comment --&gt"
+
+,
+            "/* comment */",
+            "# comment"
+          ],
+          "correctOption": 2,
+          "explanation": "CSS comments are written like /* comment */.",
+          "id": 18,
+          "category": "Programming"
+        },
+        {
+          "question": "Which HTML element is used to display a picture?",
+          "options": [
+            "&lt;picture&gt"
+
+,
+            "&lt;img&gt"
+
+,
+            "&lt;src&gt"
+
+,
+            "&lt;image&gt"
+
+
+          ],
+          "correctOption": 1,
+          "explanation": "<img> is used to embed images in an HTML page.",
+          "id": 19,
+          "category": "Programming"
+        },
+        {
+          "question": "What is the default position value in CSS?",
+          "options": [
+            "relative",
+            "absolute",
+            "static",
+            "fixed"
+          ],
+          "correctOption": 2,
+          "explanation": "The default CSS position is static.",
+          "id": 20,
+          "category": "Programming"
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "questions": [
+        {
+          "question": "[Computer Science] What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Multi Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctOption": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages and web applications.",
+          "id": 21,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] Which CSS property is used to change the text color?",
+          "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+          ],
+          "correctOption": 2,
+          "explanation": "The 'color' property is used to set the color of text in CSS. For example: color: blue;",
+          "id": 22,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] What does the acronym SPA stand for in web development?",
+          "options": [
+            "Server Page Application",
+            "Single Page Application",
+            "Static Page Application",
+            "Synchronous Processing Application"
+          ],
+          "correctOption": 1,
+          "explanation": "SPA stands for Single Page Application. It's a web app that dynamically updates as the user interacts with it.",
+          "id": 23,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] Which HTML tag is used to define an unordered list?",
+          "options": [
+            "&lt;ol&gt"
+,
+            "&lt;ul&gt"
+,
+            "&lt;li&gt"
+,
+            "&lt;list&gt"
+
+          ],
+          "correctOption": 1,
+          "explanation": "<ul> is used for unordered lists.",
+          "id": 24,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] What is the purpose of media queries in CSS?",
+          "options": [
+            "To add animations",
+            "To apply styles based on device characteristics",
+            "To define transitions",
+            "To add fonts"
+          ],
+          "correctOption": 1,
+          "explanation": "Media queries apply CSS rules based on screen size, resolution, and orientation.",
+          "id": 25,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] Which property is used to change font size in CSS?",
+          "options": [
+            "text-size",
+            "font-size",
+            "font-style",
+            "text-style"
+          ],
+          "correctOption": 1,
+          "explanation": "font-size is used to change the size of the font.",
+          "id": 26,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] What does the <a> tag define in HTML?",
+          "options": [
+            "A paragraph",
+            "A table",
+            "A hyperlink",
+            "A heading"
+          ],
+          "correctOption": 2,
+          "explanation": "<a> tag defines a hyperlink in HTML.",
+          "id": 27,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] How do you insert a comment in a CSS file?",
+          "options": [
+            "// comment",
+            "&lt;!-- comment --&gt"
+
+,
+            "/* comment */",
+            "# comment"
+          ],
+          "correctOption": 2,
+          "explanation": "CSS comments are written like /* comment */.",
+          "id": 28,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] Which HTML element is used to display a picture?",
+          "options": [
+            "&lt;picture&gt"
+
+,
+            "&lt;img&gt"
+
+,
+            "&lt;src&gt"
+
+,
+            "&lt;image&gt"
+
+
+          ],
+          "correctOption": 1,
+          "explanation": "<img> is used to embed images in an HTML page.",
+          "id": 29,
+          "category": "Computer Science"
+        },
+        {
+          "question": "[Computer Science] What is the default position value in CSS?",
+          "options": [
+            "relative",
+            "absolute",
+            "static",
+            "fixed"
+          ],
+          "correctOption": 2,
+          "explanation": "The default CSS position is static.",
+          "id": 30,
+          "category": "Computer Science"
+        }
+      ]
+    },
+    {
+      "name": "Version Control",
+      "questions": [
+        {
+          "question": "[Version Control] What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Multi Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctOption": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages and web applications.",
+          "id": 31,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] Which CSS property is used to change the text color?",
+          "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+          ],
+          "correctOption": 2,
+          "explanation": "The 'color' property is used to set the color of text in CSS. For example: color: blue;",
+          "id": 32,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] What does the acronym SPA stand for in web development?",
+          "options": [
+            "Server Page Application",
+            "Single Page Application",
+            "Static Page Application",
+            "Synchronous Processing Application"
+          ],
+          "correctOption": 1,
+          "explanation": "SPA stands for Single Page Application. It's a web app that dynamically updates as the user interacts with it.",
+          "id": 33,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] Which HTML tag is used to define an unordered list?",
+          "options": [
+            "&lt;ol&gt"
+,
+            "&lt;ul&gt"
+,
+            "&lt;li&gt"
+,
+            "&lt;list&gt"
+
+          ],
+          "correctOption": 1,
+          "explanation": "<ul> is used for unordered lists.",
+          "id": 34,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] What is the purpose of media queries in CSS?",
+          "options": [
+            "To add animations",
+            "To apply styles based on device characteristics",
+            "To define transitions",
+            "To add fonts"
+          ],
+          "correctOption": 1,
+          "explanation": "Media queries apply CSS rules based on screen size, resolution, and orientation.",
+          "id": 35,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] Which property is used to change font size in CSS?",
+          "options": [
+            "text-size",
+            "font-size",
+            "font-style",
+            "text-style"
+          ],
+          "correctOption": 1,
+          "explanation": "font-size is used to change the size of the font.",
+          "id": 36,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] What does the <a> tag define in HTML?",
+          "options": [
+            "A paragraph",
+            "A table",
+            "A hyperlink",
+            "A heading"
+          ],
+          "correctOption": 2,
+          "explanation": "<a> tag defines a hyperlink in HTML.",
+          "id": 37,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] How do you insert a comment in a CSS file?",
+          "options": [
+            "// comment",
+            "&lt;!-- comment --&gt"
+
+,
+            "/* comment */",
+            "# comment"
+          ],
+          "correctOption": 2,
+          "explanation": "CSS comments are written like /* comment */.",
+          "id": 38,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] Which HTML element is used to display a picture?",
+          "options": [
+            "&lt;picture&gt"
+
+,
+            "&lt;img&gt"
+
+,
+            "&lt;src&gt"
+
+,
+            "&lt;image&gt"
+
+
+          ],
+          "correctOption": 1,
+          "explanation": "<img> is used to embed images in an HTML page.",
+          "id": 39,
+          "category": "Version Control"
+        },
+        {
+          "question": "[Version Control] What is the default position value in CSS?",
+          "options": [
+            "relative",
+            "absolute",
+            "static",
+            "fixed"
+          ],
+          "correctOption": 2,
+          "explanation": "The default CSS position is static.",
+          "id": 40,
+          "category": "Version Control"
+        }
+      ]
+    },
+    {
+      "name": "Database",
+      "questions": [
+        {
+          "question": "[Databases] What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "High Tech Multi Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+          ],
+          "correctOption": 0,
+          "explanation": "HTML stands for Hyper Text Markup Language. It is the standard markup language for creating web pages and web applications.",
+          "id": 41,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] Which CSS property is used to change the text color?",
+          "options": [
+            "font-color",
+            "text-color",
+            "color",
+            "text-style"
+          ],
+          "correctOption": 2,
+          "explanation": "The 'color' property is used to set the color of text in CSS. For example: color: blue;",
+          "id": 42,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] What does the acronym SPA stand for in web development?",
+          "options": [
+            "Server Page Application",
+            "Single Page Application",
+            "Static Page Application",
+            "Synchronous Processing Application"
+          ],
+          "correctOption": 1,
+          "explanation": "SPA stands for Single Page Application. It's a web app that dynamically updates as the user interacts with it.",
+          "id": 43,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] Which HTML tag is used to define an unordered list?",
+          "options": [
+            "&lt;ol&gt"
+,
+            "&lt;ul&gt"
+,
+            "&lt;li&gt"
+,
+            "&lt;list&gt"
+
+          ],
+          "correctOption": 1,
+          "explanation": "<ul> is used for unordered lists.",
+          "id": 44,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] What is the purpose of media queries in CSS?",
+          "options": [
+            "To add animations",
+            "To apply styles based on device characteristics",
+            "To define transitions",
+            "To add fonts"
+          ],
+          "correctOption": 1,
+          "explanation": "Media queries apply CSS rules based on screen size, resolution, and orientation.",
+          "id": 45,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] Which property is used to change font size in CSS?",
+          "options": [
+            "text-size",
+            "font-size",
+            "font-style",
+            "text-style"
+          ],
+          "correctOption": 1,
+          "explanation": "font-size is used to change the size of the font.",
+          "id": 46,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] What does the <a> tag define in HTML?",
+          "options": [
+            "A paragraph",
+            "A table",
+            "A hyperlink",
+            "A heading"
+          ],
+          "correctOption": 2,
+          "explanation": "<a> tag defines a hyperlink in HTML.",
+          "id": 47,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] How do you insert a comment in a CSS file?",
+          "options": [
+            "// comment",
+            "&lt;!-- comment --&gt"
+
+,
+            "/* comment */",
+            "# comment"
+          ],
+          "correctOption": 2,
+          "explanation": "CSS comments are written like /* comment */.",
+          "id": 48,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] Which HTML element is used to display a picture?",
+          "options": [
+            "&lt;picture&gt"
+
+,
+            "&lt;img&gt"
+
+,
+            "&lt;src&gt"
+
+,
+            "&lt;image&gt"
+
+
+          ],
+          "correctOption": 1,
+          "explanation": "<img> is used to embed images in an HTML page.",
+          "id": 49,
+          "category": "Databases"
+        },
+        {
+          "question": "[Databases] What is the default position value in CSS?",
+          "options": [
+            "relative",
+            "absolute",
+            "static",
+            "fixed"
+          ],
+          "correctOption": 2,
+          "explanation": "The default CSS position is static.",
+          "id": 50,
+          "category": "Databases"
+        }
+      ]
+    }
+  ]
+}
