@@ -71,21 +71,37 @@ QuizQuest is a fully responsive and user-friendly web-based quiz application bui
 git clone https://github.com/your-username/quizquest.git
 cd quizquest
 ```
-## 2. Open in Browser
-
-- Open `index.html` directly in your browser
-- Or use a live server extension (e.g., **VS Code Live Server**)
-
-## 3. Play the Quiz
-
-- ✅ Enter your **name**
-- ✅ Choose a **category**
-- ✅ Click **Start Quiz**
-- ✅ Answer the questions and receive **instant feedback**
-- ✅ View your **score** and **progress**
-- ✅ Click **Restart** if you'd like to try again
 
 ---
+
+### 2. Open in Browser
+
+- Open `index.html` directly in your browser.
+- Or use a live server extension (e.g., **VS Code Live Server**) for smoother experience and automatic reload.
+
+---
+
+### 3. Quiz Data Handling
+
+The application uses a `quiz_api.json` file to store quiz questions and answers in a structured format. This setup allows you to:
+
+- Add new categories or questions without modifying JavaScript code.
+- Easily manage and update quiz data from a single file.
+- Keep the quiz organized and scalable for future improvements.
+
+---
+
+### 4. Play the Quiz
+
+- ✅ Enter your **name** in the input field.
+- ✅ Choose a **category** from the available list.
+- ✅ Click on **Start Quiz** to begin.
+- ✅ Answer the questions and get **instant feedback** after every answer.
+- ✅ After completion, your **final score** and a **progress bar** will be displayed.
+- ✅ Use the **Restart** button to play again or choose another category.
+
+---
+
 
 ## 📌 Application Flow
 
@@ -104,6 +120,10 @@ cd quizquest
 
 
 ## OUTPUT:
+
+### HOME PAGE
+
+<img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/4d687240-7790-47b3-aa0a-1e153043327a" />
 
 
 
