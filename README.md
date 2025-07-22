@@ -121,10 +121,20 @@ The application uses a `quiz_api.json` file to store quiz questions and answers 
 
 ## OUTPUT:
 
-### HOME PAGE
+### HOME PAGE:
 
 <img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/4d687240-7790-47b3-aa0a-1e153043327a" />
 
+### QUIZ INTERFACE:
 
+<img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/b053817e-1fd8-455d-84ff-6dab1c8a9a2e" />
+
+<img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/af042a67-21ad-4a77-ac88-12fc40c909c7" />
+
+<img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/838d0d88-17f8-4d06-8a86-112223fb79de" />
+
+### SCORE PAGE: 
+
+<img width="960" height="411" alt="Image" src="https://github.com/user-attachments/assets/f46ab3b1-17b8-4592-8925-13742d4ece9c" />
 
 
